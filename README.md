@@ -1,4 +1,4 @@
-# Clustering-Algorithms-in-PySpark
+# Clustering-Algo-PySpark
 
 _In collaboration with Rushya Puttam (@rushyaP)_.
 
