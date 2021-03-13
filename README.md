@@ -1,5 +1,7 @@
 # Clustering-Algorithms-in-PySpark
 
+__In collaboration with Rushya Puttam (@rushyaP)__.
+
 This repository contains the implementation of the k-means and k-means++ algorithms from scratch in PySpark.
 
 The k-means (and its improvement, the k-means++) algorithm is an unsupervised learning method
