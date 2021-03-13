@@ -1,6 +1,6 @@
 # Clustering-Algorithms-in-PySpark
 
-__In collaboration with Rushya Puttam (@rushyaP)__.
+_In collaboration with Rushya Puttam (@rushyaP)_.
 
 This repository contains the implementation of the k-means and k-means++ algorithms from scratch in PySpark.
 
